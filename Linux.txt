@@ -1,0 +1,17 @@
+Linux:
+  What is linux?;
+  How to install linux(ubuntu/fedora/minx)? ;
+  Linux vs Unix;
+  10 simple linux commands:
+    {cat,
+    ls,
+    man,
+    nano,
+    vim
+    sudo,
+    exit,
+    bash,
+    'xyz'top
+    kill / killall
+    };
+  'number here' linux commands you need to know;
