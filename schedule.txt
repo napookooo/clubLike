@@ -1,0 +1,4 @@
+wk1: what is linux + linux vs unix + how to install
+wk2: do whatever you can in linux (e.g. do simple task like in windows/macos)
+wk3: simple linux commands
+wk4: commands you should know
